@@ -152,15 +152,17 @@ select:focus{
 
 #part_3
 {
-    height:100px;
+    height:60px;
     width:100%;
     background-color: black;
     color:white;
+    font-size: 30px;
 
 }
 
 #part_3>img{
-    height:50px;
-    width:50px;
+    height:60px;
+    width:70px;
+    margin-left: 30px;
     
 }
