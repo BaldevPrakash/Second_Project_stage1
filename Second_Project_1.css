@@ -1,0 +1,166 @@
+body
+{
+    padding: 0px;
+}
+
+#part_1
+{
+    margin-top:3.3%;
+    
+    height:600px;
+    width:100%;
+    
+
+}
+
+#img_part_1
+{
+    height: 600px;
+    width: 50%;
+    float:left;
+}
+#img_part_1>img {
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    background-size: 100% 600px;
+    
+}
+#content_part_1 {
+    height: 598.5122px;
+    width: 50%;
+    background-color: black;
+    
+    float:left;
+    
+    
+}
+
+#cont1_part_1 {
+    
+    height:30px;
+    font-size: 20px;
+    letter-spacing:4px;
+    margin-top:120px;
+    width:70%;
+    color: white;
+}
+#cont2_part_1 {
+    
+    height:30px;
+    font-size:  30px;
+    margin-top:30px;
+    font-weight: bold;
+    width:70%;
+    
+    color: white;
+}
+#cont3_part_1 {
+    
+    height:50px;
+    font-size: 20px;
+    width:100%;
+    margin-top:50px;
+    color: white;
+}
+#cont4_part_1 {
+    height:180px;
+    width: 45%;
+    background-color:white;
+    margin-top:20px;
+    margin-left:150px;
+    border-radius: 10px;
+}
+#cont4_part{
+    margin-top:25px;
+    margin-left:30%;
+    margin-bottom:20px;
+    font-size:30px;
+    font-weight:bold;
+}
+#cont4_part1{
+    width: 86%;
+    
+    margin-left: 18px;
+    padding: 13px 20px;
+    
+    
+    color: #555;
+}
+.form-control{
+    width: 84%;
+    height: 50px;
+    margin-left: 3px;
+    padding: 13px 20px;
+    font-size: 18px;
+    line-height: 20.428571;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+/*
+select{
+    width:300px;
+    margin-top:20px;
+    margin-left:0px;
+}
+select:focus{
+    height:50px;
+    min-width:200px;
+    margin-top:20px;
+    margin-left:0px;
+}*/
+
+#part_2
+{
+    height:500px;
+    width:100%;
+    border-bottom: 1px solid black;
+}
+
+#part_2_1{
+    height: 500px;
+    width: 50%;
+    float:left;
+}
+#content_1{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top:60px;
+    margin-left:63px;
+}
+#content_2>img{
+    height:360px;
+    width:532px;
+    margin-top:20px;
+    margin-left:100px;
+}
+
+#part_2_2{
+    height: 500px;
+    width:50%;
+    float:left;
+}
+#part_2_2>img{
+    height:355px;
+    width:534px;
+    margin-top:80px;
+    margin-left: 86px;
+}
+
+#part_3
+{
+    height:100px;
+    width:100%;
+    background-color: black;
+    color:white;
+
+}
+
+#part_3>img{
+    height:50px;
+    width:50px;
+    
+}
